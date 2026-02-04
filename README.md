@@ -1,1 +1,2 @@
 # SC_302_Documentacion_MN_Edwin-1988
+Ésta es una prueba.
